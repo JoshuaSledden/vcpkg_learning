@@ -1,0 +1,4 @@
+# ninja log v6
+4	243	7477372460565715	build.ninja	5b38ce2585d7cdeb
+12	434	7477372390115784	CMakeFiles/vcpkg_learning.dir/main.cpp.obj	a5d42ae26467b4ab
+435	964	7477372394347114	vcpkg_learning.exe	b3cf44642f0eec9a

@@ -1,0 +1,3 @@
+E:/Development/Library/vcpkg-learning/cmake-build-debug/CMakeFiles/vcpkg_learning.dir
+E:/Development/Library/vcpkg-learning/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Development/Library/vcpkg-learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
